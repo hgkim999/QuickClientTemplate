@@ -1,7 +1,11 @@
 # QuickClientTemplate
 Quick React Native Application Template with FB Login
 
+## Quick Links
+* [Quick Server Template](https://github.com/hgkim999/quick-server-template) repo
 
+### High level design for Quick Client and Quick Server
+![Architecture Diagram](https://hgkim999.github.io/page/image/Architecture.png)
 
 ## Things to consider before using React Native
 ### Pros
